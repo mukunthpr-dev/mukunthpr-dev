@@ -8,11 +8,14 @@
 
 ### A High Schooler, avid coder, my main focus in terms of languages is Python, practically all my code is in Python!, I hope to study Data Science/AI Engineering!
 <hr>
+
 ## **IMPORTANT** I have sadly lost access to my old account @mukunthpr, But most of my projects were housed locally as well, except a few which I shall fork, But please note that the lost account is no longer in use and no longer maintained
-<br> <hr>
+<br>
+
 - 🌱 I’m currently learning **[AI, ML techniquies in Python, Vibe Coding]**
 - 💬 Ask me about **Python, Ethical Hacking AI, ML techniques...or anything [here](https://github.com/mukunthpr-dev/mukunthpr-dev/issues)**
-<br>
+
+  <br>
 
 <div align="center">
   <a href="mailto:mukunthprc@gmail.com">
