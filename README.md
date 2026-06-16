@@ -2,7 +2,6 @@
   <p>Visitor count</p>
   <img src="https://komarev.com/ghpvc/?username=mukunthpr-dev&color=orange&style=for-the-badge)" alt="Visitor's Count" />
 </div>
-<img src="https://github.com/mukunthpr-dev/mukunthpr-dev/blob/main/github-header-banner-2.png" alt="My Banner">
  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Mukunth+P.R!;" />
 </h1>
