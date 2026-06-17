@@ -25,6 +25,7 @@
   </a>
 </div>
 <hr>
+
 ## 🛠️ Languages and Tools
 
 <br>
@@ -35,6 +36,7 @@
   <img src="https://dl.svgcdn.com/png/logos/google-gemini-800.png" height="48" alt="Google Gemini AI" />
 </p>
 <hr>
+
 ## ⚡️ Stats
 
 <br>
