@@ -44,12 +44,16 @@ async function fetchRepositories(container) {
         // Remove loader
         container.innerHTML = '';
         
-        if (repos.length === 0) {
+        // Filter out specific repos
+        const excludedRepos = ['brew', 'winget-pkgs'];
+        const filteredRepos = repos.filter(repo => !excludedRepos.includes(repo.name));
+        
+        if (filteredRepos.length === 0) {
             container.innerHTML = '<div style="grid-column: 1/-1; text-align: center; color: var(--text-secondary);">No repositories found.</div>';
             return;
         }
 
-        repos.forEach((repo, index) => {
+        filteredRepos.forEach((repo, index) => {
             // Add staggered delay for animation
             const delay = 0.1 * index;
             const langColor = languageColors[repo.language] || '#6d28d9';
